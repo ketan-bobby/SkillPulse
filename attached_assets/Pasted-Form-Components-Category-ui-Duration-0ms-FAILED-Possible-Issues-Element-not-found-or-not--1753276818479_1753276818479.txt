@@ -1,0 +1,168 @@
+Form Components
+Category: ui • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Dialog Components
+Category: ui • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Table Components
+Category: ui • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Input Validation
+Category: ui • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Responsive Design
+Category: ui • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Accessibility Features
+Category: ui • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Authentication Page
+Category: pages • Duration: 1ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Dashboard Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+User Management Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Test Management Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Question Management Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Assignment Page
+Category: pages • Duration: 1ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Results Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Analytics Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Profile Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Settings Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Company Management Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Department Management Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Project Management Page
+Category: pages • Duration: 1ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+AI Insights Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test
+Export Data Page
+Category: pages • Duration: 0ms
+FAILED
+Possible Issues:
+• Element not found or not accessible
+• Network connectivity issue
+• Authentication or permission problem
+• Page not fully loaded during test

@@ -1,0 +1,572 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2500
+>>
+stream
+0.5670000000000001 w
+0 G
+0.04 0.06 0.11 rg
+0. 841.8899999999999864 595.2799999999999727 -127.5590551181102512 re
+f
+BT
+/F2 24 Tf
+27.5999999999999979 TL
+1. g
+56.6929133858267775 771.0238582677164914 Td
+(LinxIQ Skill Gap Analysis Report) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+1. g
+56.6929133858267775 742.6774015748030706 Td
+(Generated: 20/8/2025) Tj
+ET
+0.1 0.12 0.18 rg
+42.5196850393700814 671.8112598425196893 510.2362204724410049 -113.3858267716535551 re
+f
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+1. g
+70.8661417322834666 629.291574803149615 Td
+(Sample Candidate) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+1. g
+70.8661417322834666 600.9451181102361943 Td
+(ID: 1) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+1. g
+70.8661417322834666 581.1025984251967884 Td
+(Email: sample@nttdata.com) Tj
+ET
+0.02 0.71 0.83 rg
+425.1968503937008563 657.6380314960629221 113.3858267716535551 -85.0393700787401627 re
+f
+BT
+/F2 20 Tf
+23. TL
+1. g
+453.5433070866142202 600.9451181102361943 Td
+(85%) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 530.0789763779526993 Td
+(Executive Summary) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 501.7325196850393354 Td
+(Test: Analyst - Batch 1) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 484.7246456692913057 Td
+(Domain: programming) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 467.716771653543276 Td
+(Level: senior) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 450.7088976377952463 Td
+(Questions: 0/3) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 433.7010236220471597 Td
+(Accuracy: 33%) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 416.69314960629913 Td
+(Speed: 0 minutes) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 374.1734645669290558 Td
+(Critical Skill Gaps) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.937 0.267 0.267 rg
+56.6929133858267775 351.4962992125983874 Td
+(• Question 46 - D. Decorator) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.937 0.267 0.267 rg
+56.6929133858267775 334.4884251968503008 Td
+(• Question 47 - C. Decorator Pattern) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 289.1340944881889072 Td
+(Strength Areas) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.133 0.773 0.369 rg
+56.6929133858267775 266.4569291338582389 Td
+(• Developing strengths) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 221.1025984251967884 Td
+(Training Recommendations) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 198.4254330708660063 Td
+(Immediate:) Tj
+ET
+BT
+/F2 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 167.2443307086613231 Td
+(Short Term:) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2653
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 785.1970866141732586 Td
+(Industry Analysis) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 756.8506299212598378 Td
+(Market Demand: High) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 739.8427559055118081 Td
+(Salary Range: $45K-65K) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 722.8348818897637784 Td
+(Industry Percentile: Bottom 30%) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 705.8270078740157487 Td
+(Competition Level: High) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 677.480551181102328 Td
+(Suitable Roles:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(• Junior Developer) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(• QA Analyst) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 626.4569291338582389 Td
+(• Support Engineer) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 581.1025984251967884 Td
+(Predictive Analytics) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 552.7561417322833677 Td
+(Future Performance: 48%) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 535.748267716535338 Td
+(Promotion Readiness: 48%) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 518.7403937007873083 Td
+(Learning Curve: Steep Learning Required) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 501.7325196850393354 Td
+(Time to Improve: 6-9 months) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0. g
+42.5196850393700814 459.2128346456692611 Td
+(AI-Powered Insights) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 430.8663779527558404 Td
+(Overall Assessment: Foundation level - Focus on core competency building) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 408.1892125984251152 Td
+(Growth Potential: 4/10) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+42.5196850393700814 379.8427559055117513 Td
+(Key Findings:) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 362.8348818897637216 Td
+(• Strong foundational concepts but needs practical application) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 345.8270078740156919 Td
+(• Limited skill gaps with targeted improvement opportunities) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 328.8191338582676053 Td
+(• Consistent performance pattern with clear improvement trajectory) Tj
+ET
+0.04 0.06 0.11 rg
+0. 48.1892125984250868 595.2799999999999727 -42.5196850393700814 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+42.5196850393700814 28.3466929133857093 Td
+(LinxIQ - Confidential Report) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+1. g
+510.2406299212597673 28.3466929133857093 Td
+(Page 2) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R ]
+/Count 2
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+/F4 10 0 R
+/F5 11 0 R
+/F6 12 0 R
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+21 0 obj
+<<
+/Producer (jsPDF 3.0.1)
+/CreationDate (D:20250820010518+05'30')
+>>
+endobj
+22 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000005546 00000 n 
+0000007371 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002704 00000 n 
+0000002841 00000 n 
+0000005609 00000 n 
+0000005734 00000 n 
+0000005864 00000 n 
+0000005997 00000 n 
+0000006135 00000 n 
+0000006259 00000 n 
+0000006388 00000 n 
+0000006520 00000 n 
+0000006656 00000 n 
+0000006784 00000 n 
+0000006911 00000 n 
+0000007040 00000 n 
+0000007173 00000 n 
+0000007275 00000 n 
+0000007621 00000 n 
+0000007707 00000 n 
+trailer
+<<
+/Size 23
+/Root 22 0 R
+/Info 21 0 R
+/ID [ <79167B6277B5AACC270077CB83FEAB62> <79167B6277B5AACC270077CB83FEAB62> ]
+>>
+startxref
+7811
+%%EOF

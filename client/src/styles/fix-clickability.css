@@ -1,0 +1,74 @@
+/* Emergency Fix for System Clickability */
+
+/* Remove any potential blocking overlays */
+.fixed.inset-0:empty,
+.fixed.inset-0:not(:has(*)),
+div[style*="z-index: 9999"],
+div[style*="z-index: 999"],
+div[style*="pointer-events: none"] {
+  display: none !important;
+}
+
+/* Ensure main content is clickable */
+body {
+  pointer-events: auto !important;
+}
+
+#root {
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 1 !important;
+}
+
+/* Fix any potential overlay issues */
+.fixed.inset-0.z-50:not(.test-interface):not(.modal-content) {
+  pointer-events: none !important;
+}
+
+/* Ensure buttons and interactive elements are clickable */
+button,
+a,
+input,
+textarea,
+select,
+[role="button"],
+[role="checkbox"],
+[onclick],
+.clickable {
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+/* Remove any invisible blocking elements */
+.invisible,
+.opacity-0:not(:hover),
+[aria-hidden="true"] {
+  pointer-events: none !important;
+}
+
+/* Ensure navigation is always clickable */
+nav,
+header,
+.navigation,
+.nav-menu,
+.app-header {
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 100 !important;
+}
+
+/* Fix potential modal/dialog blocking issues */
+[role="dialog"]:not(.open),
+.modal:not(.open),
+.dialog:not(.open) {
+  display: none !important;
+}
+
+/* Ensure dropdowns work */
+.dropdown-menu,
+.select-dropdown,
+[data-radix-popper-content-wrapper] {
+  pointer-events: auto !important;
+  z-index: 1000 !important;
+}

@@ -1,0 +1,210 @@
+/* Modern UI Design System - Clean & Elegant */
+
+/* COMPLETE RESET of aggressive button styles */
+button, 
+.btn,
+[role="button"],
+input[type="button"],
+input[type="submit"],
+input[type="reset"],
+[class*="Button"],
+[class*="button"],
+[class*="btn"],
+[data-testid*="button"],
+[aria-label*="button" i],
+[title*="button" i],
+.clickable,
+.interactive,
+[onclick],
+[data-click],
+.radix-ui button,
+[data-radix-collection-item],
+[data-state] button,
+[data-testid] button,
+.lucide + button,
+button .lucide,
+.table-cell button,
+.card-actions button,
+.action-buttons button,
+.toolbar button,
+.controls button,
+table button,
+.table button,
+td button,
+th button,
+.card button,
+[data-card] button,
+.bg-card button,
+header button,
+.header button,
+nav button,
+.nav button,
+form button,
+.form button,
+.dialog button,
+[role="dialog"] button,
+.modal button,
+.dropdown button,
+.select button,
+[data-select] button,
+* button,
+* .btn {
+  /* AGGRESSIVE STYLE RESET */
+  all: unset !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  transition: all 0.2s ease !important;
+}
+
+/* Modern Button System */
+.btn-primary {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 12px 24px !important;
+  font-weight: 500 !important;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1) !important;
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px) !important;
+}
+
+.btn-secondary {
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(10px) !important;
+  color: var(--foreground) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 8px !important;
+  padding: 12px 24px !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+}
+
+.btn-secondary:hover {
+  background: rgba(255, 255, 255, 0.2) !important;
+  transform: translateY(-1px) !important;
+}
+
+.btn-ghost {
+  background: transparent !important;
+  color: var(--muted-foreground) !important;
+  border: none !important;
+  border-radius: 6px !important;
+  padding: 8px 16px !important;
+  font-weight: 400 !important;
+  transition: all 0.2s ease !important;
+}
+
+.btn-ghost:hover {
+  background: var(--accent) !important;
+  color: var(--accent-foreground) !important;
+}
+
+.btn-destructive {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff5252 100%) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 12px 24px !important;
+  font-weight: 500 !important;
+  transition: all 0.3s ease !important;
+}
+
+.btn-destructive:hover {
+  transform: translateY(-2px) !important;
+}
+
+.btn-icon {
+  background: var(--muted) !important;
+  color: var(--muted-foreground) !important;
+  border: none !important;
+  border-radius: 8px !important;
+  padding: 8px !important;
+  transition: all 0.2s ease !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+.btn-icon:hover {
+  background: var(--accent) !important;
+  color: var(--accent-foreground) !important;
+  transform: scale(1.05) !important;
+}
+
+/* Modern Card System */
+.card-modern {
+  background: rgba(255, 255, 255, 0.7) !important;
+  backdrop-filter: blur(20px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 16px !important;
+  transition: all 0.3s ease !important;
+}
+
+.card-modern:hover {
+  transform: translateY(-4px) !important;
+}
+
+/* Modern Badge System */
+.badge-modern {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+  color: white !important;
+  border: none !important;
+  border-radius: 20px !important;
+  padding: 4px 12px !important;
+  font-size: 12px !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.5px !important;
+}
+
+.badge-success {
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%) !important;
+}
+
+.badge-warning {
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%) !important;
+}
+
+.badge-error {
+  background: linear-gradient(135deg, #ff6b6b 0%, #ff5252 100%) !important;
+}
+
+/* Modern Input System */
+.input-modern {
+  background: rgba(255, 255, 255, 0.1) !important;
+  backdrop-filter: blur(10px) !important;
+  border: 1px solid rgba(255, 255, 255, 0.2) !important;
+  border-radius: 12px !important;
+  padding: 12px 16px !important;
+  color: var(--foreground) !important;
+  transition: all 0.3s ease !important;
+}
+
+.input-modern:focus {
+  border-color: #667eea !important;
+  outline: none !important;
+}
+
+/* Remove all aggressive table and card styling */
+.table-modern {
+  background: transparent !important;
+  border: none !important;
+}
+
+.table-modern td, .table-modern th {
+  border: none !important;
+  padding: 12px !important;
+}
+
+.table-modern tbody tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  transition: all 0.2s ease !important;
+}
+
+.table-modern tbody tr:hover {
+  background: rgba(255, 255, 255, 0.05) !important;
+}

@@ -1,0 +1,204 @@
+/* Modern Clean UI System - LinxIQ */
+
+/* Reset and base styling */
+* {
+  box-sizing: border-box;
+}
+
+/* Clean Radix UI checkbox styling - minimal override */
+button[role="checkbox"] {
+  width: 20px !important;
+  height: 20px !important;
+  min-width: 20px !important;
+  min-height: 20px !important;
+  border: 2px solid hsl(220 13% 91%) !important;
+  border-radius: 4px !important;
+  background: white !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  cursor: pointer !important;
+  transition: all 0.15s ease !important;
+  pointer-events: auto !important;
+  position: relative !important;
+  z-index: 10 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+button[role="checkbox"]:hover {
+  border-color: hsl(221.2 83.2% 53.3%) !important;
+}
+
+button[role="checkbox"][data-state="checked"] {
+  background: hsl(221.2 83.2% 53.3%) !important;
+  border-color: hsl(221.2 83.2% 53.3%) !important;
+  color: white !important;
+}
+
+button[role="checkbox"][data-state="unchecked"] {
+  background: white !important;
+  border-color: hsl(220 13% 91%) !important;
+}
+
+/* Make sure checkmark is visible */
+button[role="checkbox"] svg {
+  color: white !important;
+  opacity: 1 !important;
+}
+
+/* Fix any z-index issues */
+button[role="checkbox"] {
+  z-index: 1 !important;
+  position: relative !important;
+}
+
+/* Clean input styling */
+input[type="text"],
+input[type="email"], 
+input[type="password"],
+input[type="number"],
+textarea {
+  border: 1px solid hsl(220 13% 91%) !important;
+  border-radius: 6px !important;
+  padding: 8px 12px !important;
+  background: white !important;
+  font-size: 14px !important;
+  transition: border-color 0.15s ease !important;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="password"]:focus,
+input[type="number"]:focus,
+textarea:focus {
+  border-color: hsl(221.2 83.2% 53.3%) !important;
+  outline: 2px solid hsl(221.2 83.2% 53.3% / 0.2) !important;
+  outline-offset: 0 !important;
+}
+
+/* Clean button styling - exclude checkboxes */
+button:not([role="checkbox"]) {
+  border-radius: 6px !important;
+  padding: 8px 16px !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  cursor: pointer !important;
+  transition: all 0.15s ease !important;
+  border: 1px solid transparent !important;
+}
+
+/* Primary buttons */
+button[data-variant="default"],
+button:not([data-variant]):not([role="checkbox"]) {
+  background: hsl(221.2 83.2% 53.3%) !important;
+  color: white !important;
+}
+
+button[data-variant="default"]:hover,
+button:not([data-variant]):not([role="checkbox"]):hover {
+  background: hsl(221.2 83.2% 48%) !important;
+}
+
+/* Outline buttons */
+button[data-variant="outline"] {
+  background: white !important;
+  border: 1px solid hsl(220 13% 91%) !important;
+  color: hsl(224 71.4% 4.1%) !important;
+}
+
+button[data-variant="outline"]:hover {
+  background: hsl(220 14.3% 95.9%) !important;
+}
+
+/* Secondary buttons */
+button[data-variant="secondary"] {
+  background: hsl(220 14.3% 95.9%) !important;
+  color: hsl(224 71.4% 4.1%) !important;
+}
+
+button[data-variant="secondary"]:hover {
+  background: hsl(220 13% 91%) !important;
+}
+
+/* Clean card styling */
+.card,
+[data-card],
+div[class*="card"] {
+  background: white !important;
+  border: 1px solid hsl(220 13% 91%) !important;
+  border-radius: 8px !important;
+  box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1) !important;
+}
+
+/* Clean form labels */
+label {
+  font-size: 14px !important;
+  font-weight: 500 !important;
+  color: hsl(224 71.4% 4.1%) !important;
+  margin-bottom: 6px !important;
+}
+
+/* Clean select styling */
+button[role="combobox"],
+select {
+  border: 1px solid hsl(220 13% 91%) !important;
+  border-radius: 6px !important;
+  padding: 8px 12px !important;
+  background: white !important;
+  color: hsl(224 71.4% 4.1%) !important;
+  cursor: pointer !important;
+}
+
+button[role="combobox"]:hover,
+select:hover {
+  border-color: hsl(221.2 83.2% 53.3%) !important;
+}
+
+/* Remove all aggressive transforms and effects except for checkboxes */
+button:not([role="checkbox"]) {
+  transform: none !important;
+}
+
+button:not([role="checkbox"]):hover {
+  transform: none !important;
+}
+
+/* Clean background */
+body {
+  background: hsl(220 14.3% 95.9%) !important;
+}
+
+/* Clean table styling */
+table {
+  background: white !important;
+  border: 1px solid hsl(220 13% 91%) !important;
+  border-radius: 6px !important;
+}
+
+th {
+  background: hsl(220 14.3% 95.9%) !important;
+  color: hsl(224 71.4% 4.1%) !important;
+  font-weight: 600 !important;
+  padding: 12px !important;
+}
+
+td {
+  padding: 12px !important;
+  border-top: 1px solid hsl(220 13% 91%) !important;
+}
+
+/* Clean tab styling */
+button[role="tab"] {
+  background: transparent !important;
+  border: 1px solid transparent !important;
+  color: hsl(220.9 39.3% 11%) !important;
+  padding: 8px 16px !important;
+}
+
+button[role="tab"][data-state="active"] {
+  background: white !important;
+  border: 1px solid hsl(220 13% 91%) !important;
+  border-bottom: 1px solid white !important;
+  color: hsl(224 71.4% 4.1%) !important;
+}

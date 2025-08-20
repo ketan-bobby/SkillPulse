@@ -1,0 +1,74 @@
+Failed Tests Details
+8 Failed
+Form Components
+Category: ui • Duration: 0ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Dialog Components
+Category: ui • Duration: 1ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Table Components
+Category: ui • Duration: 1ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Input Validation
+Category: ui • Duration: 0ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Authentication Page
+Category: pages • Duration: 14ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Profile Page
+Category: pages • Duration: 6ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Settings Page
+Category: pages • Duration: 3ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
+Project Management Page
+Category: pages • Duration: 8ms
+FAILED
+Common Solutions:
+• Refresh the page and retry the test
+• Check if you're on the correct page for this test
+• Ensure proper authentication and permissions
+• Wait for page to fully load before testing
+• Verify network connection is stable
